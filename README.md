@@ -1,2 +1,2 @@
 # PHPUnitTests
-Study cases on PHPTUnit
+Study cases on PHPUnit
